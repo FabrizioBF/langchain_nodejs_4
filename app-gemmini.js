@@ -3,7 +3,7 @@ import { ChatMessageHistory } from 'langchain/memory';
 import { RunnableWithMessageHistory } from '@langchain/core/runnables';
 import {
   ChatPromptTemplate,
-  MessagesPl/aceholder,
+  MessagesPlaceholder,
 } from '@langchain/core/prompts';
 
 import 'dotenv/config';
